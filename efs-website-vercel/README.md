@@ -35,3 +35,4 @@ Because the DNS zone stays where it is, DNSSEC at Squarespace and Google Workspa
 
 - Delete the `steep-wood-8e0f` Worker in the Cloudflare dashboard.
 - Optionally remove the efsegypt.org domain from Cloudflare entirely.
+<!-- deploy: root directory fix, 2 Sep 2026 -->
